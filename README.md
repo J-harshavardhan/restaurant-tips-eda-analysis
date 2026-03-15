@@ -125,7 +125,7 @@ These visualizations help identify patterns in customer tipping behavior.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/restaurant-tips-eda-analysis.git
+https://github.com/J-harshavardhan/restaurant-tips-eda-analysis.git
 ```
 
 2. Navigate to the folder
